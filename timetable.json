@@ -1,0 +1,138 @@
+{
+    "monday":
+    {
+        "one" :
+        {
+            "name" : "STAT 145 - Intro to Statistics",
+            "room" : "D-107",
+            "link" : "https://rit.zoom.us/j/94272125253",
+            "time" : ["10","00"],
+            "start" : ["10","05"],
+            "end" : ["11","00"]
+        },
+        "two" :
+        {
+            "name" : "GCIS 124 - Software Development",
+            "room" : "D-112",
+            "link" : "https://rit.zoom.us/j/98487687749",
+            "time" : ["13","00"],
+            "start" : ["13","05"],
+            "end" : ["15","05"]
+        },
+        "three" :
+        {
+            "name" : "CSEC 102 - InfoAssuranceAndSecurity",
+            "room" : "Online",
+            "link" : "https://rit.zoom.us/j/99165836309?pwd=SWQyYldWTnFybUc0dENKajI5K2J4Zz09",
+            "time" : ["15","10"],
+            "start" : ["15","15"],
+            "end" : ["16","10"]
+        }
+    },
+
+    "tuesday":
+    {
+        "one" :
+        {
+            "name" : "COMM 142 - Intro Technical Communication",
+            "room" : "B-211",
+            "link" : "https://rit.zoom.us/j/97917874937",
+            "time" : ["08","55"],
+            "start" : ["09","00"],
+            "end" : ["10","20"]
+        },
+        "two" :
+        {
+            "name" : "PHIL 306 - Professional Ethics",
+            "room" : "B-210",
+            "link" : "https://rit.zoom.us/j/97265760349",
+            "time" : ["10","25"],
+            "start" : ["10","30"],
+            "end" : ["11","50"]
+        }
+    },
+
+    "wednesday":
+    {
+        "one" :
+        {
+            "name" : "STAT 145 - Intro to Statistics",
+            "room" : "D-107",
+            "link" : "https://rit.zoom.us/j/94272125253",
+            "time" : ["07","55"],
+            "start" : ["08","00"],
+            "end" : ["08","55"]
+        },
+        "two" :
+        {
+            "name" : "STAT 145 - Intro to Statistics",
+            "room" : "D-107",
+            "link" : "https://rit.zoom.us/j/94272125253",
+            "time" : ["10","00"],
+            "start" : ["10","05"],
+            "end" : ["11","00"]
+        },
+        "three" :
+        {
+            "name" : "GCIS 124 - Software Development",
+            "room" : "D-112",
+            "link" : "https://rit.zoom.us/j/98487687749",
+            "time" : ["13","00"],
+            "start" : ["13","05"],
+            "end" : ["15","05"]
+        },
+        "four" :
+        {
+            "name" : "CSEC 102 - InfoAssuranceAndSecurity",
+            "room" : "Online",
+            "link" : "https://rit.zoom.us/j/99165836309?pwd=SWQyYldWTnFybUc0dENKajI5K2J4Zz09",
+            "time" : ["15","10"],
+            "start" : ["15","15"],
+            "end" : ["16","10"]
+        }
+    },
+
+    "thursday":
+    {
+        "one" :
+        {
+            "name" : "COMM 142 - Intro Technical Communication",
+            "room" : "B-211",
+            "link" : "https://rit.zoom.us/j/97917874937",
+            "time" : ["08","55"],
+            "start" : ["09","00"],
+            "end" : ["10","20"]
+        },
+        "two" :
+        {
+            "name" : "PHIL 306 - Professional Ethics",
+            "room" : "B-210",
+            "link" : "https://rit.zoom.us/j/97265760349",
+            "time" : ["10","25"],
+            "start" : ["10","30"],
+            "end" : ["11","50"]
+        }
+    },
+
+    "friday":
+    {
+        "one" :
+        {
+            "name" : "GCIS 124 - Software Development",
+            "room" : "D-112",
+            "link" : "https://rit.zoom.us/j/98487687749",
+            "time" : ["07","55"],
+            "start" : ["08","00"],
+            "end" : ["09","55"]
+        },
+        "two" :
+        {
+            "name" : "CSEC 102 - InfoAssuranceAndSecurity",
+            "room" : "Online",
+            "link" : "https://rit.zoom.us/j/99165836309?pwd=SWQyYldWTnFybUc0dENKajI5K2J4Zz09",
+            "time" : ["10","00"],
+            "start" : ["10","05"],
+            "end" : ["11","00"]
+        }
+    }
+}
