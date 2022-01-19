@@ -1,12 +1,12 @@
 {
   "name": "discordtimetable",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "bot.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon bot.js"
+    "dev": "nodemon bot.js",
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
@@ -14,6 +14,20 @@
   "dependencies": {
     "discord.js": "^13.6.0",
     "dotenv": "^14.1.0",
-    "nodemon": "^2.0.15"
-  }
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "server": "^1.0.37"
+  },
+  "devDependencies": {
+    "node": "^16.13.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hritsh/DiscordClassReminder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hritsh/DiscordClassReminder/issues"
+  },
+  "homepage": "https://github.com/hritsh/DiscordClassReminder#readme",
+  "description": ""
 }
